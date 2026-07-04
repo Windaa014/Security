@@ -1,9 +1,10 @@
 {
-    "creator": "https://wa.me/6281991410940",
-    "access": [
-      "081991410940"
-    ],
-    "access_bot": [
-      "081991410940"
-    ]
+  "tokens": [
+    "8681322130:AAFv8F-fQaxOqkHgBkt5vh_WIdUWJiT0LzY",
+    "8500238794:AAG_CvJfzsnp7jVPsu9UzvDqP6cE3N2qH5c",
+    "8713425051:AAFA02p5DISN_0XWf-joNYi-2YOEJWZL93k",
+    "8426551326:AAEQaGfr3AnvoYoqNoq7LnggzBeURfj0aBY",
+    "8939513422:AAEmJZhjjCtixRg0qXRC6RXSusthsT_Xuy8",
+    "8858503327:AAFDMG_v0bw95_AhPHbhZNUP2nK46gbOS2E"
+  ]
 }
